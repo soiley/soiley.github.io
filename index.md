@@ -4,24 +4,30 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="" alt="" hspace="20" width="30%" align="right"/> Part-time English major, full-time dog entertainer. Interested in languages, coding, crafts and dog training. Great at starting crafts projects, terrible at finishing them. 
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/soiley/)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form firstname.lastname@helsinki.fi. 
 
-## Courses I've Taken
+## Courses I've taken lately
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Native North American Fiction](https://courses.helsinki.fi/en/eng-3086/130779021), fall 2019
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Command line tools for linguists](https://courses.helsinki.fi/en/kik-lg219/129824412), fall 2019
+
+## Here's what I've been up to
+
+[My very short CV](./assets/documents/Soile_CV.pdf)
 
 ## Projects
 
-## Misc. 
+One assignment in the command line course was to create a GitHub page, you can find it [here](https://github.com/soiley/cmd-line). 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+## Miscellaneous 
+
+[Gotta Love Finnish Lapphunds](https://en.wikipedia.org/wiki/Finnish_Lapphund) 
