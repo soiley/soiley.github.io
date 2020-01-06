@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="" alt="" hspace="20" width="30%" align="right"/> Part-time English major, full-time dog entertainer. Interested in languages, coding, crafts and dog training. Great at starting crafts projects, terrible at finishing them. 
+<img src="assets/images/owl.jpg" alt="Parsing is a hoot!" hspace="30" width="40%" align="right"/> Part-time English major, full-time dog entertainer. Interested in languages, coding, crafts and dog training. Great at starting crafts projects, terrible at finishing them. 
 
 ## Find me on
 
